@@ -14,7 +14,7 @@ This is a Next.js app containing:
 #### Download the template
 
 ```shell
-pnpm create solana-dapp@latest -t gh:solana-foundation/templates/web3js/orderbook-dex
+pnpm create solana-dapp@latest -t gh:solana-foundation/templates/web3js/orderbook-order_book_dex
 ```
 
 #### Install Dependencies
@@ -39,7 +39,7 @@ command with `pnpm`, eg: `pnpm anchor`.
 Running this command will create a new keypair in the `anchor/target/deploy` directory and save the address to the
 Anchor config file and update the `declare_id!` macro in the `./src/lib.rs` file of the program.
 
-You will manually need to update the constant in `anchor/lib/counter-exports.ts` to match the new program id.
+You will manually need to update the constant in `anchor/lib/orderBookDex-exports.ts` to match the new program id.
 
 ```shell
 pnpm anchor keys sync

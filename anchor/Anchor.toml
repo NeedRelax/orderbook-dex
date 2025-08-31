@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-counter = "FqzkXZdwYjurnUKetJCAvaUw5WAqbwzU6gZEwydeEfqS"
+order_book_dex = "6Kw1m5tG9E6Hh9TSzuofdCbjLLtjdRuQGFhiFDuZaJuL"
 
 [registry]
 url = "https://api.apr.dev"

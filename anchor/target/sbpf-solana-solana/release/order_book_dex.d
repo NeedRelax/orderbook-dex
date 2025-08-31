@@ -1,0 +1,1 @@
+/Users/chenwei/git_projects/solana_projects/push_git/orderbook-dex/anchor/target/sbpf-solana-solana/release/order_book_dex.so: /Users/chenwei/git_projects/solana_projects/push_git/orderbook-dex/anchor/programs/order_book_dex/src/lib.rs
